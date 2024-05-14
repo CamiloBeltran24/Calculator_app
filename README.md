@@ -21,5 +21,7 @@ To run this project on your local machine, follow these steps:
 `npm install`
 
 ### Run the application:
-`npm start`
+```javascript
+npm start`
+```
 Open your browser and go to http://localhost:3000 to see the application in action.
