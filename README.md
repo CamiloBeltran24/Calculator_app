@@ -7,3 +7,5 @@ calculator_app is a calculator application built with React, inspired by the App
 - Responsive design that adapts to different screen sizes.
 - Reusable and organized components.
 - Local state management using React hooks.
+
+  ## Installation
