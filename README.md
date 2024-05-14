@@ -12,14 +12,14 @@ calculator_app is a calculator application built with React, inspired by the App
 To run this project on your local machine, follow these steps:
 
 ### Clone this repository:
-git clone `git@github.com:CamiloBeltran24/Calculator_app.git`
+`git clone git@github.com:CamiloBeltran24/Calculator_app.git`
 
 ### Navigate to the project directory:
-cd calculator_app
+`cd calculator_app`
 
 ### Install the dependencies:
-npm install
+`npm install`
 
 ### Run the application:
-npm start
+`npm start`
 Open your browser and go to http://localhost:3000 to see the application in action.
