@@ -54,7 +54,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any questions or comments, you can contact me at:
 
 **Email:** [cambelf.dev@gmail.com](mailto:cambelf.dev@gmail.com).
-**GitHub:** [CamiloBeltran24](https://github.com/amiloBeltran24)
+<br>
+**GitHub:** [CamiloBeltran24](https://github.com/amiloBeltran24).
 
 ## Technologies Used
 - **React:** JavaScript library for building user interfaces.
