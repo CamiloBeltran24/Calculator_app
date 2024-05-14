@@ -37,3 +37,8 @@ npm start`
 - Use the operation buttons (+, -, *, /) to perform calculations.
 - Press the = button to get the result.
 - Use the C button to clear the display.
+
+## Technologies Used
+- **React:** JavaScript library for building user interfaces.
+- **CSS:** For styling and layout of elements.
+- **Create React App:** Tool to quickly set up a React application.
