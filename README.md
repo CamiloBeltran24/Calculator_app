@@ -38,6 +38,24 @@ npm start`
 - Press the = button to get the result.
 - Use the C button to clear the display.
 
+## Contributions
+Contributions are welcome. If you would like to contribute, please follow these steps:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature/new-feature).
+- Make your changes and commit them (git commit -m 'Add new feature').
+- Push to the branch (git push origin feature/new-feature).
+- Open a Pull Request.
+  
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For any questions or comments, you can contact me at:
+
+**Email:** [cambelf.dev@gmail.com](mailto:cambelf.dev@gmail.com).
+**GitHub:** [CamiloBeltran24](https://github.com/amiloBeltran24)
+
 ## Technologies Used
 - **React:** JavaScript library for building user interfaces.
 - **CSS:** For styling and layout of elements.
