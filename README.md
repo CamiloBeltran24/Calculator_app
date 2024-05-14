@@ -11,23 +11,29 @@ calculator_app is a calculator application built with React, inspired by the App
 ## Installation
 To run this project on your local machine, follow these steps:
 
-### Clone this repository:
+### 1. Clone this repository:
 ```javascript
 git clone git@github.com:CamiloBeltran24/Calculator_app.git
 ```
 
-### Navigate to the project directory:
+### 2. Navigate to the project directory:
 ```javascript
 cd calculator_app
 ```
 
-### Install the dependencies:
+### 3. Install the dependencies:
 ```javascript
 npm install`
 ```
 
-### Run the application:
+### 4. Run the application:
 ```javascript
 npm start`
 ```
 - Open your browser and go to http://localhost:3000 to see the application in action.
+  
+## Usage
+- Use the numeric buttons to enter numbers.
+- Use the operation buttons (+, -, *, /) to perform calculations.
+- Press the = button to get the result.
+- Use the C button to clear the display.
