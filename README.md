@@ -28,7 +28,7 @@ npm install`
 
 ### 4. Run the application:
 ```javascript
-npm start`
+npm start
 ```
 - Open your browser and go to http://localhost:3000 to see the application in action.
   
