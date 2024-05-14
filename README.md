@@ -14,12 +14,12 @@ To run this project on your local machine, follow these steps:
 ### Clone this repository:
 git clone https://github.com/your_username/calculator_app.git
 
-###Navigate to the project directory:
+### Navigate to the project directory:
 cd calculator_app
 
-###Install the dependencies:
+### Install the dependencies:
 npm install
 
-###Run the application:
+### Run the application:
 npm start
 Open your browser and go to http://localhost:3000 to see the application in action.
