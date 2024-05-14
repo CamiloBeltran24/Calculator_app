@@ -55,7 +55,7 @@ For any questions or comments, you can contact me at:
 
 **Email:** [cambelf.dev@gmail.com](mailto:cambelf.dev@gmail.com).
 <br>
-**GitHub:** [CamiloBeltran24](https://github.com/amiloBeltran24).
+**GitHub:** [CamiloBeltran24](https://github.com/CamiloBeltran24).
 
 ## Technologies Used
 - **React:** JavaScript library for building user interfaces.
