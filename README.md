@@ -12,7 +12,7 @@ calculator_app is a calculator application built with React, inspired by the App
 To run this project on your local machine, follow these steps:
 
 ### Clone this repository:
-git clone https://github.com/your_username/calculator_app.git
+git clone (`git@github.com:CamiloBeltran24/Calculator_app.git`)
 
 ### Navigate to the project directory:
 cd calculator_app
